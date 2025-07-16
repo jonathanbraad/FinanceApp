@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "My Profile";
+    var email = ViewBag.Profile?.GetProperty("email").GetString();
+}
+
+<div class="container mt-5">
+    <h2 class="mb-3">My Profile</h2>
+
+    @if (email != null) {
+        <div class="card shadow-sm p-4">
+            <p class="fs-5">Welcome back!</p>
+            <p><strong>Email:</strong> @email</p>
+        </div>
+    } else {
+        <div class="alert alert-warning">Could not load your profile.</div>
+    }
+
+    <div class="mt-4">
+        <a asp-controller="Dashboard" asp-action="Index" class="btn btn-primary">Go to Dashboard</a>
+    </div>
+</div>

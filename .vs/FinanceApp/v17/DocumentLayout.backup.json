@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\views\\account\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:views\\account\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\services\\authorizedapiclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:services\\authorizedapiclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316FEB41-2F5F-4D99-A207-23DE4371E28D}|..\\FinanceApp.API\\FinanceApp.API.csproj|c:\\users\\jonathan\\source\\repos\\financeapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\financeapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:financeapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316FEB41-2F5F-4D99-A207-23DE4371E28D}|..\\FinanceApp.API\\FinanceApp.API.csproj|c:\\users\\jonathan\\source\\repos\\financeapp.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316FEB41-2F5F-4D99-A207-23DE4371E28D}|..\\FinanceApp.API\\FinanceApp.API.csproj|c:\\users\\jonathan\\source\\repos\\financeapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316FEB41-2F5F-4D99-A207-23DE4371E28D}|..\\FinanceApp.API\\FinanceApp.API.csproj|c:\\users\\jonathan\\source\\repos\\financeapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD1CB1B-9439-42B7-8BA2-0CF846A3905F}|..\\Shared\\Shared.csproj|c:\\users\\jonathan\\source\\repos\\shared\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD1CB1B-9439-42B7-8BA2-0CF846A3905F}|..\\Shared\\Shared.csproj|c:\\users\\jonathan\\source\\repos\\shared\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC086F8-852E-4017-9FBB-CD8F4D845611}|..\\DataAccess\\DataAccess.csproj|c:\\users\\jonathan\\source\\repos\\dataaccess\\models\\financedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD1CB1B-9439-42B7-8BA2-0CF846A3905F}|..\\Shared\\Shared.csproj|c:\\users\\jonathan\\source\\repos\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC086F8-852E-4017-9FBB-CD8F4D845611}|..\\DataAccess\\DataAccess.csproj|c:\\users\\jonathan\\source\\repos\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316FEB41-2F5F-4D99-A207-23DE4371E28D}|..\\FinanceApp.API\\FinanceApp.API.csproj|c:\\users\\jonathan\\source\\repos\\financeapp.api\\financeapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D999F6-2C7D-4310-BF60-BE3999DDC161}|..\\Models\\Models.csproj|c:\\users\\jonathan\\source\\repos\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T11:46:13.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:44:11.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizedApiClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Services\\AuthorizedApiClientFactory.cs",
+              "RelativeDocumentMoniker": "Services\\AuthorizedApiClientFactory.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Services\\AuthorizedApiClientFactory.cs",
+              "RelativeToolTip": "Services\\AuthorizedApiClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:30:30.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T14:55:58.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T14:55:19.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:49:10.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Me.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Me.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Me.cshtml",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Me.cshtml",
+              "RelativeToolTip": "Views\\Account\\Me.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T09:23:20.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinanceApp.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\FinanceApp.Web.csproj",
+              "RelativeDocumentMoniker": "FinanceApp.Web.csproj",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\FinanceApp.Web.csproj",
+              "RelativeToolTip": "FinanceApp.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T14:44:21.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\FinanceApp.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\FinanceApp.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:30:13.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T14:59:54.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "..\\FinanceApp.API\\Services\\JWTService.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Services\\JWTService.cs",
+              "RelativeToolTip": "..\\FinanceApp.API\\Services\\JWTService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:44:29.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Success.cshtml",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Success.cshtml",
+              "RelativeToolTip": "Views\\Account\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T14:56:54.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\Shared\\DTO\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\DTO\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\Shared\\DTO\\UserLoginDto.cs",
+              "RelativeToolTip": "..\\Shared\\DTO\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:31:18.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FinanceApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Program.cs",
+              "RelativeToolTip": "..\\FinanceApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:34:43.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\FinanceApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\appsettings.json",
+              "RelativeToolTip": "..\\FinanceApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T08:32:39.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\Shared\\DTO\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\DTO\\UserRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\Shared\\DTO\\UserRegistrationDto.cs",
+              "RelativeToolTip": "..\\Shared\\DTO\\UserRegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:31:35.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "..\\Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\Shared\\Shared.csproj",
+              "RelativeToolTip": "..\\Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T16:31:00.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinanceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\DataAccess\\Models\\FinanceDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Models\\FinanceDbContext.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\DataAccess\\Models\\FinanceDbContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\Models\\FinanceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:40:08.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FinanceApp.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\FinanceApp.API.csproj",
+              "RelativeDocumentMoniker": "..\\FinanceApp.API\\FinanceApp.API.csproj",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\FinanceApp.API.csproj",
+              "RelativeToolTip": "..\\FinanceApp.API\\FinanceApp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T08:22:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "..\\DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T08:21:18.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\Models\\Class1.cs",
+              "RelativeToolTip": "..\\Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:20:25.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
