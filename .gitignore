@@ -1,1 +1,5 @@
-bin/\nobj/\n.vs/\n*.user\n*.suo
+bin/
+obj/
+.vs/
+*.user
+*.suo

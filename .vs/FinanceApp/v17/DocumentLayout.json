@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|c:\\users\\jonathan\\source\\repos\\financeapp\\views\\account\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6FB709AC-88C3-4769-B7B1-93A4A9DA455F}|FinanceApp.Web.csproj|solutionrelative:views\\account\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -83,15 +87,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-16T10:01:57.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -103,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -115,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuthorizedApiClientFactory.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Services\\AuthorizedApiClientFactory.cs",
               "RelativeDocumentMoniker": "Services\\AuthorizedApiClientFactory.cs",
@@ -127,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -139,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -151,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -163,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Me.cshtml",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Me.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Me.cshtml",
@@ -176,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FinanceApp.Web.csproj",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\FinanceApp.Web.csproj",
               "RelativeDocumentMoniker": "FinanceApp.Web.csproj",
@@ -188,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "..\\FinanceApp.API\\Controllers\\UserController.cs",
@@ -200,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -212,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "JWTService.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Services\\JWTService.cs",
               "RelativeDocumentMoniker": "..\\FinanceApp.API\\Services\\JWTService.cs",
@@ -224,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Success.cshtml",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp\\Views\\Account\\Success.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Success.cshtml",
@@ -236,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UserLoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\Shared\\DTO\\UserLoginDto.cs",
               "RelativeDocumentMoniker": "..\\Shared\\DTO\\UserLoginDto.cs",
@@ -248,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\FinanceApp.API\\Program.cs",
@@ -260,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\appsettings.json",
               "RelativeDocumentMoniker": "..\\FinanceApp.API\\appsettings.json",
@@ -272,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserRegistrationDto.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\Shared\\DTO\\UserRegistrationDto.cs",
               "RelativeDocumentMoniker": "..\\Shared\\DTO\\UserRegistrationDto.cs",
@@ -284,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Shared.csproj",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\Shared\\Shared.csproj",
               "RelativeDocumentMoniker": "..\\Shared\\Shared.csproj",
@@ -296,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "FinanceDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\DataAccess\\Models\\FinanceDbContext.cs",
               "RelativeDocumentMoniker": "..\\DataAccess\\Models\\FinanceDbContext.cs",
@@ -308,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "FinanceApp.API.csproj",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\FinanceApp.API\\FinanceApp.API.csproj",
               "RelativeDocumentMoniker": "..\\FinanceApp.API\\FinanceApp.API.csproj",
@@ -320,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
@@ -332,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Jonathan\\source\\repos\\Models\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Models\\Class1.cs",
@@ -341,6 +354,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T08:20:25.414Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
