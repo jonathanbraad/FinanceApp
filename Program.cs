@@ -8,6 +8,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddHttpClient();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<AuthorizedApiClientFactory>();
+builder.Services.AddHttpClient<PythonClientService>();
 
 
 
